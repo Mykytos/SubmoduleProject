@@ -1,3 +1,4 @@
 [submodule "ProjectBuilder"]
 	path = ProjectBuilder
 	url = https://github.com/Mykytos/ProjectBuilder.git
+	branch = dev
